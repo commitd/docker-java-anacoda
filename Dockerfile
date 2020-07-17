@@ -1,4 +1,4 @@
-FROM adoptopenjdk/openjdk11:jdk-11.28
+FROM adoptopenjdk/openjdk14:jdk-14.0.1_7
 
 ENV LANG=C.UTF-8 LC_ALL=C.UTF-8
 ENV PATH /opt/conda/bin:$PATH
