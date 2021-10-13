@@ -1,4 +1,4 @@
-FROM adoptopenjdk/openjdk14:jdk-14.0.1_7
+FROM eclipse-temurin:17_35-jdk
 
 ENV LANG=C.UTF-8 LC_ALL=C.UTF-8
 ENV PATH /opt/conda/bin:$PATH
