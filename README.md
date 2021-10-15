@@ -1,1 +1,1 @@
-Combines openjdk 14 and Anaconda
+Combines JDK 17 and Anaconda
